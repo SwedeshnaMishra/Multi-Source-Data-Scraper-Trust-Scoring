@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+langdetect
+youtube-transcript-api
+yt-dlp
+biopython
