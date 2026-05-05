@@ -98,10 +98,8 @@ project/
 ├── main.py
 ├── requirements.txt
 ├── README.md
-├── report.pdf
-└── .gitignore
+└── report.pdf
 ```
-
 
 ---
 
